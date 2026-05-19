@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cursos
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.6.
@@ -57,3 +58,7 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Cursos-Angular
+Proyecto Angular de Lenguajes de Programación 3
+>>>>>>> 75048e3e1025f1f3a12ee3678a5485111726afa5
